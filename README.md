@@ -1,2 +1,1 @@
-# TinDogWebSite
-AngelaYu Video Course TinDog
+TinDog Starting Files
